@@ -7,7 +7,7 @@ import static com.codeborne.selenide.Condition.*;
 import static com.codeborne.selenide.Selectors.*;
 import static com.codeborne.selenide.Selenide.*;
 
-public class ZSN_homeworkTest_14_4 {
+public class ZSNhomeworkTest_14_4 {
     @BeforeAll
     static void setup() {
         Configuration.browserSize =  "1920x1080";
